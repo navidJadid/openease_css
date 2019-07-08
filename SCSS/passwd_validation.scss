@@ -35,17 +35,17 @@
   content: "\2716";
 }
 
+.invalid-feedback{
+  font-size: 14px;
+}
+
 #invalid-msg{
-  font-size: 12px;
-  padding-left: 10px;
-  padding-top: 5px;
-  font-weight: bold;
+  font-size: 14px;
+  //padding-left: 10px;
+  padding-top: 8px;
+  //font-weight: bold;
 }
 
-.confirmpsw{
-  border-color: red;
-}
-
-//.was-validated .confirmpsw:valid{
+//.confirmpsw{
 //  border-color: red;
 //}
