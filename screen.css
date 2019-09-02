@@ -315,7 +315,7 @@ optgroup {
 input[type=text],
 input[type=password],
 textarea {
-    padding:2px;
+    /*padding:2px;*/
     margin: 2px 0;
 }
 input[type=radio],
